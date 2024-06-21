@@ -26,7 +26,7 @@
 
 <br/>
 
-## ☕ Para usar o Sistema de Gerenciamento de Estados de Tarefas
+## ☕ Para utilizar o Task State
 
 <br> 📌 Baixe ou clone esse repositório
 <br> 📌 Utilize a IDE que você está acostumada(o) para acessar os códigos
